@@ -1,51 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@pui-nantheera 
-pui-nantheera
-/
-pixel-based-fusion
-1
-1
-0
- Code
- Issues 0
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
- Settings
-pixel-based-fusion/License
-pui-nantheera/pixel-based-fusion is licensed under the
-
-GNU General Public License v3.0
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
-
-Permissions
- Commercial use
- Modification
- Distribution
- Patent use
- Private use
-Limitations
- Liability
- Warranty
-Conditions
- License and copyright notice
- State changes
- Disclose source
- Same license
-This is not legal advice. Learn more about repository licenses.
-@pui-nantheera pui-nantheera Create License
-41230b3 9 days ago
-233 lines (131 sloc)  33.6 KB
-  
 Preamble
 
 The GNU General Public License is a free, copyleft license for software and other kinds of works.
@@ -279,15 +231,4 @@ The hypothetical commands `show w' and `show c' should show the appropriate part
 You should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <http://www.gnu.org/licenses/>.
 
 The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <http://www.gnu.org/philosophy/why-not-lgpl.html>.
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
